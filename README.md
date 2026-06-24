@@ -14,7 +14,10 @@
 3. https://www.youtube.com/@campusx-official
 
 ## Twitter Accounts
-1. 
+1. https://x.com/paraschopra
+
+## Github
+1. https://github.com/Devinterview-io
 
 
 By Jash Shah (https://jash0803.github.io)
