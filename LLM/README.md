@@ -11,7 +11,7 @@
   * Read and understand research papers on LLMs more effectively.
   * Customize, fine-tune, and experiment with open-source LLM architectures.
 
-* **Book Link:** <a href="https://www.amazon.in/Build-Large-Language-Model-Scratch/dp/">Click Here</a>
+* **Book Link:** <a href="https://www.amazon.in/Build-Large-Language-Model-Scratch/dp/1633437167">Click Here</a>
 
 ### Hands-On Large Language Models: Language Understanding and Generation — Jay Alammar & Maarten Grootendorst
 
