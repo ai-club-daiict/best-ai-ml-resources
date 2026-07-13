@@ -39,4 +39,4 @@
   * Use prompt engineering and LangChain to develop production-ready AI applications.
   * Gain the knowledge needed to work with open-source LLMs and build intelligent AI systems.
 
-* **Book Link:** <a href="https://www.amazon.in/Hands-Large-Language-Models-Understanding/dp/1098150961">Click Here</a>
+* **Book Link:** <a href="https://github.com/DanielRizvi/oreilly-books-collection-/blob/main/Data-Science-and-AI/LLMs/Hands-On-Large-Language-Models.pdf">Click Here</a>
